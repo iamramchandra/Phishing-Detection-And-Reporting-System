@@ -3,9 +3,9 @@ To run the project, clone the repository, install dependencies from requirements
 
 Installation
 Clone the repo:
-git clone https://github.com/yourusername/phishguardian.git
+git clone https://github.com/iamramchandra/Phishing-Detection-And-Reporting-System/
 Install dependencies:
 pip install -r requirements.txt
 Run the script:
 python detect_phishing.py
-For questions or suggestions, contact me via email at youremail@example.com.
+For questions or suggestions, contact me via email at ramchandrapaudel433@gmail.com
